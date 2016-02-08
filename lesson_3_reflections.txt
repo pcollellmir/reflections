@@ -1,0 +1,2 @@
+When would you want to create a new repository rather than keeping all your work locally?
+When I have to work with a team.
