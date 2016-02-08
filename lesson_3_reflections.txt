@@ -1,2 +1,5 @@
 When would you want to create a new repository rather than keeping all your work locally?
 When I have to work with a team.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because someone can change a file that your are working on the local machine and you could have a conflict.
