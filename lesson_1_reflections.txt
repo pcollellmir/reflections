@@ -12,3 +12,5 @@ Because its a programming characteristic to have a group of files that need to b
 
 How might using version control make you more confident to make changes that could break something?
 You can test whatever you want knowing that your are safe to go backwards without problem
+
+Introduce a text in a new line
